@@ -1,0 +1,20 @@
+#divCONT{
+    overflow-y: scroll;
+    height: 300px;
+    text-align: center;
+    margin:0 auto;
+    display: table;
+}
+
+table{
+    border-style: 2px solid ;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+td,tr,th{
+    padding:4px;
+
+    border-color: black;
+    border:2px solid;
+}
